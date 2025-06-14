@@ -1,0 +1,4 @@
+instagrapi==1.15.3
+ollama
+google-generativeai
+girlprompt  # assuming it's a local/custom module; if not available on PyPI, comment this
